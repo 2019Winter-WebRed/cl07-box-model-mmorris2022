@@ -1,0 +1,30 @@
+/*
+* Maggie Morris
+* Due Date
+* Project Name and Description
+*/
+
+/* THe universal selector */
+
+* { margin: 0;
+    padding: 0;
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+h1{ border: 5px dotted teal;
+    padding: 5px;
+    margin:10px;}
+p {border: 5px dotted teal;
+   padding:10px;
+   margin:10px}
+main {border: 5px solid pink;
+      margin:10px;
+      padding:10px;}
+body {border: 5px dotted orange;
+      margin:10px;
+      padding:10px;}
